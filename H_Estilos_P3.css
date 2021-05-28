@@ -1,0 +1,85 @@
+h1 {
+
+color:black;
+
+}
+
+h2 {
+
+color:white;
+
+}
+
+h3 {
+
+color:black;
+
+}
+
+h4 {
+
+color:white;
+
+}
+
+p {
+
+color:black;
+
+}
+
+p {
+
+Text-align: justify;
+
+}
+
+li {
+
+color:black;
+
+}
+
+ul {
+
+color:white;
+
+}
+
+hr {
+
+color:white;
+
+}
+
+a {
+
+color:white;
+
+}
+
+a {
+
+padding: 10px;
+
+}
+
+a {
+
+margin: 10px;
+
+}
+
+body{
+    background-image: url(https://us.123rf.com/450wm/claudiodivizia/claudiodivizia1612/claudiodivizia161203492/68734018-papel-de-color-amarillo-%C3%BAtil-como-fondo-vertical.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+div{
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 10px;
+
+}
